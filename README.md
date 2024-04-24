@@ -25,9 +25,9 @@ Minor checks
 - [X] reboot to bootloader
 - [X] reboot to recovery
 - [X] poweroff
-- [ ] battery level
+- [X] battery level
 - [ ] temperature
-- [ ] encrypted backups
+- [X] encrypted backups
 - [X] input devices via USB (USB-OTG) - keyboard, mouse and disks
 - [ ] USB mass storage export (unable to test)
 - [X] set brightness
@@ -35,6 +35,3 @@ Minor checks
 - [X] screenshot
 - [X] partition SD card
 
-
-
-**Firmware 1200
